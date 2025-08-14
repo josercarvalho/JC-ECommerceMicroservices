@@ -1,0 +1,6 @@
+{
+  "Sales.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DevStudio2025\\DESAFIOS\\Avanade - DIO\\JC-ECommerceMicroservices\\src\\Sales\\Sales.API",
+  "Sales.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DevStudio2025\\DESAFIOS\\Avanade - DIO\\JC-ECommerceMicroservices\\src\\Sales\\Sales.Application",
+  "Sales.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DevStudio2025\\DESAFIOS\\Avanade - DIO\\JC-ECommerceMicroservices\\src\\Sales\\Sales.Domain",
+  "Sales.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\DevStudio2025\\DESAFIOS\\Avanade - DIO\\JC-ECommerceMicroservices\\src\\Sales\\Sales.Infrastructure"
+}

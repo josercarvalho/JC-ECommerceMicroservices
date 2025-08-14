@@ -1,0 +1,11 @@
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.deps.json
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\bin\Debug\net9.0\Stock.Domain.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.AssemblyInfoInputs.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.AssemblyInfo.cs
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.csproj.CoreCompileInputs.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\refint\Stock.Domain.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\Stock.Domain.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Domain\obj\Debug\net9.0\ref\Stock.Domain.dll

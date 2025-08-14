@@ -1,0 +1,17 @@
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\bin\Debug\net9.0\Stock.Infrastructure.deps.json
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\bin\Debug\net9.0\Stock.Infrastructure.runtimeconfig.json
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\bin\Debug\net9.0\Stock.Infrastructure.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\bin\Debug\net9.0\Stock.Infrastructure.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\bin\Debug\net9.0\Stock.Domain.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\bin\Debug\net9.0\Stock.Domain.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.csproj.AssemblyReference.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.AssemblyInfoInputs.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.AssemblyInfo.cs
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.csproj.CoreCompileInputs.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.In.20EDF14C.Up2Date
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\refint\Stock.Infrastructure.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.genruntimeconfig.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\ref\Stock.Infrastructure.dll

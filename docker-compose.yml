@@ -1,0 +1,72 @@
+version: '3.8'
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    hostname: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+    networks:
+      - ecommerce-network
+
+  stock.api:
+    build:
+      context: .
+      dockerfile: src/Stock/Stock.API/Dockerfile
+    ports:
+      - "5001:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Data Source=/app/stock.db
+      - Jwt__Issuer=JC-ECommerceMicroservices-Stock
+      - Jwt__Audience=JC-ECommerceMicroservices-Clients
+      - Jwt__Key=thisisalongandsecurekeyforjwtauthenticationthatshouldbeverylongandcomplex
+    volumes:
+      - stock_db_data:/app
+    depends_on:
+      - rabbitmq
+    networks:
+      - ecommerce-network
+
+  sales.api:
+    build:
+      context: .
+      dockerfile: src/Sales/Sales.API/Dockerfile
+    ports:
+      - "5002:8080"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Data Source=/app/sales.db
+      - Jwt__Issuer=JC-ECommerceMicroservices-Sales
+      - Jwt__Audience=JC-ECommerceMicroservices-Clients
+      - Jwt__Key=anotherlongandsecurekeyforjwtauthenticationthatshouldbeverylongandcomplex
+    volumes:
+      - sales_db_data:/app
+    depends_on:
+      - rabbitmq
+    networks:
+      - ecommerce-network
+
+  apigateway:
+    build:
+      context: .
+      dockerfile: src/ApiGateway/ApiGateway/Dockerfile
+    ports:
+      - "5000:8080"
+    depends_on:
+      - stock.api
+      - sales.api
+    networks:
+      - ecommerce-network
+
+volumes:
+  rabbitmq_data:
+  stock_db_data:
+  sales_db_data:
+
+networks:
+  ecommerce-network:
+    driver: bridge

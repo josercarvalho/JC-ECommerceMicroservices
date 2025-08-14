@@ -1,0 +1,10 @@
+using MediatR;
+
+namespace Stock.Application.Products.Commands
+{
+    public class IncreaseStockCommand : IRequest<Unit>
+    {
+        public Guid ProductId { get; set; }
+        public int Quantity { get; set; }
+    }
+}

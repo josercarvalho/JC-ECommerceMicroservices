@@ -1,0 +1,17 @@
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Application.csproj.AssemblyReference.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Application.AssemblyInfoInputs.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Application.AssemblyInfo.cs
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Application.csproj.CoreCompileInputs.cache
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\bin\Debug\net9.0\Stock.Application.deps.json
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\bin\Debug\net9.0\Stock.Application.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\bin\Debug\net9.0\Stock.Application.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\bin\Debug\net9.0\Stock.Domain.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\bin\Debug\net9.0\Stock.Infrastructure.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\bin\Debug\net9.0\Stock.Domain.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\bin\Debug\net9.0\Stock.Infrastructure.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Ap.6973E9C6.Up2Date
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Application.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\refint\Stock.Application.dll
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\Stock.Application.pdb
+D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Application\obj\Debug\net9.0\ref\Stock.Application.dll
