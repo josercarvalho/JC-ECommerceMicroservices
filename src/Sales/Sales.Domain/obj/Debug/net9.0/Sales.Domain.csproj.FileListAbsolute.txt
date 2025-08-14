@@ -9,3 +9,4 @@ D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sale
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.Domain\obj\Debug\net9.0\refint\Sales.Domain.dll
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.Domain\obj\Debug\net9.0\Sales.Domain.pdb
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.Domain\obj\Debug\net9.0\ref\Sales.Domain.dll
+d:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.Domain\obj\Debug\net9.0\Sales.Domain.sourcelink.json

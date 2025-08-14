@@ -468,3 +468,4 @@ D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Sales\Sa
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Sales\Sales.Tests.Integration\obj\Debug\net9.0\Sales.Tests.Integration.pdb
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Sales\Sales.Tests.Integration\obj\Debug\net9.0\Sales.Tests.Integration.genruntimeconfig.cache
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Sales\Sales.Tests.Integration\obj\Debug\net9.0\ref\Sales.Tests.Integration.dll
+d:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Sales\Sales.Tests.Integration\obj\Debug\net9.0\Sales.Tests.Integration.sourcelink.json

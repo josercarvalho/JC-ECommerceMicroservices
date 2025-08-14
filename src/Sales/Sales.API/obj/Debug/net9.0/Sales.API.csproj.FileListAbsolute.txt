@@ -92,3 +92,4 @@ D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sale
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.API\obj\Debug\net9.0\Sales.API.pdb
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.API\obj\Debug\net9.0\Sales.API.genruntimeconfig.cache
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.API\obj\Debug\net9.0\ref\Sales.API.dll
+d:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Sales\Sales.API\obj\Debug\net9.0\Sales.API.sourcelink.json

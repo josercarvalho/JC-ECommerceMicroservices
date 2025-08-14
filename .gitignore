@@ -1,0 +1,78 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+build/
+dist/
+packages/
+
+# Rider
+.idea/
+*.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+*.bak
+*.log
+
+# Resharper
+*.resharper
+*.resharper.user
+
+# NCrunch
+_NCrunch_*
+*.ncrunch
+
+# Test results
+TestResults/
+
+# Misc
+*.pid
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
+
+# Docker
+*.dockerignore
+!Dockerfile
+
+# Dependency directories
+node_modules/
+jspm_packages/
+web_modules/
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+
+# Azure Functions
+.funcignore
+
+# Dotnet tool files
+.config/dotnet-tools.json
+
+# Local settings
+appsettings.Development.json
+appsettings.json
+launchSettings.json

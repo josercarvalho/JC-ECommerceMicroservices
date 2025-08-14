@@ -15,3 +15,4 @@ D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stoc
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.pdb
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.genruntimeconfig.cache
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\ref\Stock.Infrastructure.dll
+d:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\src\Stock\Stock.Infrastructure\obj\Debug\net9.0\Stock.Infrastructure.sourcelink.json

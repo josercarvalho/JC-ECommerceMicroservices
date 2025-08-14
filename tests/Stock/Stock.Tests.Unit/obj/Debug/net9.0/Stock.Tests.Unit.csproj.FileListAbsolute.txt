@@ -156,3 +156,4 @@ D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Stock\St
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Stock\Stock.Tests.Unit\obj\Debug\net9.0\Stock.Tests.Unit.pdb
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Stock\Stock.Tests.Unit\obj\Debug\net9.0\Stock.Tests.Unit.genruntimeconfig.cache
 D:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Stock\Stock.Tests.Unit\obj\Debug\net9.0\ref\Stock.Tests.Unit.dll
+d:\DevStudio2025\DESAFIOS\Avanade - DIO\JC-ECommerceMicroservices\tests\Stock\Stock.Tests.Unit\obj\Debug\net9.0\Stock.Tests.Unit.sourcelink.json
